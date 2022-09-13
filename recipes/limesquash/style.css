@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    padding-left: 700px;
+    padding-right: 710px;
+    font-size: 40px;
+    background-color: white;
+    margin-top: 0px;
+}
+
+img {
+    margin-top: 20px;
+}
